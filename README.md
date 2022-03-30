@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s7xdd
-- 👀 Developing interesting Java projects is my passion.
-- 🌱 I'm currently aiming to build a unique project. 
+- 👀 A human interested in developing softwares.
+- 🌱 Also I love plants. 
 
 <!---
 s7xdd/s7xdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

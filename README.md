@@ -1,5 +1,3 @@
-<!-- toc -->
-
 <h1 align="center">Hello World! 👋</h1> 
 
 <p align="center">I'm Mohammed, a passionate computer science student with interest in full stack web development! I love building applications that could make an impact on this world.</p>
@@ -12,8 +10,6 @@
   <a href="mailto:kmshamil123@gmail.com"><img src="https://img.shields.io/badge/-kmshamil123@gmail.com-white?logo=thunderbird&style=flat-square" alt="twitter"/></a>
 <br/><br/>
 </div>
-
----
 
 <div align="center">
 <h2>Knowledge Base :hammer_and_wrench:</h2>

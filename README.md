@@ -44,7 +44,6 @@
 
 <h3>Version Control & CI/CD</h3>
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-github-white?logo=github&logoColor=181717&style=for-the-badge" alt="github"/></a>
-<a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/-github_actions*-white?logo=githubactions&logoColor=2088FF&style=for-the-badge" alt="githubactions"/></a>
 
 
 

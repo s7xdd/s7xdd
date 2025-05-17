@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋</h1> 
 
 <p align="center">I'm Mohammed, a passionate computer science student with interest in full stack web development! I love building applications that could make an impact on this world.</p>
-<p align="center">Portfolio : https://mohammedshamil.me/</p>
+<!-- <p align="center">Portfolio : https://mohammedshamil.me/</p> -->
 
 <h3 align="center">Contact Me :handshake:</h3>
 <div align="center">

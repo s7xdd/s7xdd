@@ -23,6 +23,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-white.svg?style=for-the-badge&logo=typescript&logoColor=#F7DF1E" alt="typescript"/></a>
 
 <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React.js*-white?logo=react&logoColor=61DAFB&style=for-the-badge" alt="reactjs"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-white?logo=next.js&logoColor=000000&style=for-the-badge" alt="nextjs"/></a>
 <a href="https://vite.dev/" target="_blank"><img src="https://img.shields.io/badge/-Vite.js-white?logo=vite&logoColor=646CFF&style=for-the-badge" alt="vite"/></a>
 <a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/-Node.js-white?logo=node.js&logoColor=00DC82&style=for-the-badge" alt="node"/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/-Express.js-white?logo=express&logoColor=00DC82&style=for-the-badge" alt="express"/></a>
